@@ -1,0 +1,53 @@
+.LandingApp{
+    margin: 0;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+.Footer{
+    width: 100%;
+    height: auto;
+    padding-top:50px;
+    /* margin-top: 20px; */
+    color: rgb(255, 255, 255);
+    background-color:  #1f1f1f;
+    position: relative;
+}
+
+
+.Review-component {
+    margin-top: 20px;
+    /* The image used */
+    /* background-image: url(../../pages/landingpage/assets/servicebackround.png); */
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Review{
+     cursor: pointer;
+     text-align:center;
+     /* border : 2px solid white; */
+     color:#090765;
+     font-size: 19px;
+     /* padding: 10px; */
+     padding-top: 20px;
+     padding-left: 15px;
+    
+}
+
+.Review :hover{
+    color:#111111;
+    background-color: silver;
+}
+
+
+
+
